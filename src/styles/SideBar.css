@@ -1,0 +1,16 @@
+.side {
+    margin: 0px 0px 0px 65px;
+    border-style: solid;
+    border-width: 10px 0px 10px 10px;
+    border-color: #a4a169;
+    height: 750px;
+    width: 30%;
+    position: absolute;
+}
+
+.side img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%; 
+}

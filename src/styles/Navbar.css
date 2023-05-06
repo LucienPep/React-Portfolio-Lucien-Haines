@@ -1,12 +1,36 @@
+@font-face {
+  font-family: "Wright";
+  src: url(/src/Assets/Fonts/Fontspring-DEMO-wrightfunk-light.otf);
+}
+
 .navbar {
-    background: #f9e8b7;
-    height: 60px;
-  }
+  margin: 0px 75px 0px 65px;
+  background: #f9e8b7;
+  border-style: solid;
+  border-width: 0px 10px 0px 10px;
+  border-color: #a4a169;
+  height: 75px;
+  text-align: center;
+}
   
-  .navbar a {
-    color: #850700;
-    font-size: 1.3rem;
-    margin: 5px;
-    line-height: 3;
-  }
+.navbar a {
+  color: #850700;
+  font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15pt;
+  text-decoration: none;
+  margin: 15px;
+  line-height: 2.5;
+  text-align: left;
+}
+
+.links {
+  position: absolute;
+  margin-left: 445px;
+}
   
+.line {
+  position: static;
+  margin: 0px 50px 0px 440px;
+  height: 3px;
+  background-color: #a98a55;
+}

@@ -1,14 +1,16 @@
 import React from "react";
-import HeaderSideBar from "./components/HeaderSideBar";
+import HeaderBar from "./components/HeaderBar";
 import Navbar from "./components/Navbar";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
+import SideBar from "./components/SideBar";
 
 
 function App() {
   return (
     <div>
-      <HeaderSideBar />
+      <SideBar />
+      <HeaderBar />
       <Navbar />
       <Main />
       <Footer />

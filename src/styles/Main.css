@@ -1,9 +1,15 @@
 .main {
-    background: #f3e5f5;
-    padding: 20px;
+  margin: 0px 75px;
+  background: #f9e8b7;
+  border-style: solid;
+  border-width: 0px 10px 10px 0px;
+  border-color: #a4a169;
+  height: 538px;
+  text-align: center;
   }
   
   .main h2 {
     text-align: center;
+    margin: 0px;
   }
   

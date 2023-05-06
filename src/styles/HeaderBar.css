@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Wright";
+  src: url(/src/Assets/Fonts/Fontspring-DEMO-wrightfunk-light.otf);
+}
+
+@font-face {
+  font-family: "Time";
+  src: url(/src/Assets/Fonts/timeburnernormal.ttf);
+}
+
+.header {
+  background: #f9e8b7;
+  margin: 75px 75px 0px 75px;
+  border-style: solid;
+  border-color: #a4a169;
+  border-width: 10px 10px 0px 0px;
+  height: 136.5px;
+  }
+  
+.header h1 {
+  margin: 0;
+  padding-top: 60px;
+  padding-left: 460px;
+  text-align: left;
+  font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+  color: #a4a169;
+  font-size: 20pt;
+  font-weight: lighter;
+}
+
+.header h2 {
+  display: inline;
+}
+
+.at {
+  margin: 0;
+  padding-top: 75px;
+  padding-left: 460px;
+  text-align: left;
+  font-family: 'Time', Verdana, Geneva, Tahoma, sans-serif;
+  color: #a4a169;
+  font-size: 18pt;
+  font-weight: lighter;
+}
+
+.handle {
+  margin: 0;
+  padding-top: 75px;
+  text-align: left;
+  font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+  color: #a4a169;
+  font-size: 12pt;
+  font-weight: lighter;
+}
+
+.header img {
+  position: absolute;
+  right: 143px;
+  top: 103.25px;
+  height: 100px;
+}

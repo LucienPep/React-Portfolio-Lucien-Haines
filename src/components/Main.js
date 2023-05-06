@@ -5,11 +5,8 @@ import '../styles/Main.css';
 function Main() {
 
   return (
-    <section className="Main">
-      <h2>Mermaid</h2>
-      <p>
-        Banana
-      </p>
+    <section className="main">
+      
     </section>
   );
 }

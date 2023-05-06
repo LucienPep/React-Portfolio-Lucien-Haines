@@ -4,7 +4,7 @@ import '../styles/Footer.css';
 function Footer() {
   return (
     <header className="footer">
-      <h1>Welcome</h1>
+      <p>LUCIENPEP . MMXXIII</p>
     </header>
   );
 }
