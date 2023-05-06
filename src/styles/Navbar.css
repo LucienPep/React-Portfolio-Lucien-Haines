@@ -1,0 +1,12 @@
+.navbar {
+    background: #f9e8b7;
+    height: 60px;
+  }
+  
+  .navbar a {
+    color: #850700;
+    font-size: 1.3rem;
+    margin: 5px;
+    line-height: 3;
+  }
+  

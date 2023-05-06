@@ -1,0 +1,6 @@
+Dark Brown   #3a1707
+Brown        #5a1b02
+Light Brown  #a98a55
+Green        #a4a169
+Light Green  #bec2a8
+Cream        #f9e8b7
