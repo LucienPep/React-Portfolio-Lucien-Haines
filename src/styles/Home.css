@@ -1,0 +1,34 @@
+.homeBox {
+    margin: 0px 150px 0px 518px;
+    padding: 0px 20px;
+    text-align: center;
+    position: absolute;
+    }
+
+.homeBox h1 {
+    margin: 0;
+    text-align: left;
+    font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+    color: #17180f;
+    font-size: 15pt;
+    font-weight: lighter;
+}
+
+.homeBox p {
+    margin: 20;
+    text-align: left;
+    font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+    color: #17180f;
+    font-size: 13pt;
+    font-weight: lighter;
+}
+
+.homeBox p a {
+    color: #8a8d73;
+    text-decoration: none;
+}
+.homeBox img {
+    position: absolute;
+    left: 0;
+    height: 150px
+}

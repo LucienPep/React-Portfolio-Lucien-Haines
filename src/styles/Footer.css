@@ -1,15 +1,36 @@
 .footer {
   margin: 10px 65px;
   height: 50px;
+  text-align: center;
 }
 
 .footer p {
   color: #a4a169;
-  font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
   font-size: 12pt;
   text-decoration: none;
-  margin: 15px;
   line-height: 2.5;
   text-align: center;
   opacity: 50%;
+  display: inline;
+}
+
+.footer p a{
+  color: #a4a169;
+}
+
+.tag{
+  font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer h2 {
+  color: #a4a169;
+}
+
+.atTwo{
+  font-family: 'Time', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.atThree{
+  font-family: 'Time', Verdana, Geneva, Tahoma, sans-serif;
+  margin: 15px;
 }

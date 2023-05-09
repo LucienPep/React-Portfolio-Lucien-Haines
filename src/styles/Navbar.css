@@ -13,7 +13,7 @@
   text-align: center;
 }
   
-.navbar a {
+.pageLink {
   color: #850700;
   font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
   font-size: 15pt;
@@ -34,3 +34,4 @@
   height: 3px;
   background-color: #a98a55;
 }
+
