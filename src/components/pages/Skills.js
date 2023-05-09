@@ -10,7 +10,7 @@ function Skills() {
         <motion.div
             animate={{ x: '-0%', opacity: 100}}
             initial={{ x: '150%', opacity: 0}}
-            exit={{x: '-150%', opacity: 0}}
+            exit={{x: '-100%', opacity: 0, transition:{ duration: .5}}}
             transition={{ duration: 1}}>
             <h1>Skills and Technologies</h1>
             <h2>I am experienced in the following</h2>

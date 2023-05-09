@@ -10,7 +10,7 @@ function Resume() {
         <motion.div
             animate={{ x: '-0%', opacity: 100}}
             initial={{ x: '500%', opacity: 0}}
-            exit={{x: '-400%', opacity: 0}}
+            exit={{x: '-150%', opacity: 0, transition:{ duration: .5}}}
             transition={{ duration: 1}}>
             <h1>Resume</h1>
             <h2 className='inline email'>Please download my resume <a href=" " target="_blank">here.</a></h2>
