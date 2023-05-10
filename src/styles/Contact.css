@@ -52,3 +52,9 @@
     position: absolute;
     font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
 }
+
+@media (max-width: 1300px) {
+    .contactBox {
+        margin: 0px 110px 0px 90px;
+    }
+  }

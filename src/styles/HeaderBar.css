@@ -60,3 +60,14 @@
   height: 100px;
 }
 
+@media (max-width: 1300px) {
+  .at {
+    padding-left: 35px;
+  }
+  .header h1 {
+    padding-left: 33px;
+  }
+  .header img {
+    display: none;
+  }
+}

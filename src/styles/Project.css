@@ -38,3 +38,21 @@ article {
     text-decoration: none;
     color: #8a8d73;
 }
+
+@media (max-width: 1300px) {
+    .projectBox {
+        margin: 0px 110px 0px 90px;
+    }
+    article {
+        margin: 0 10% 0 0px;
+    }
+  }
+
+  @media (max-width: 950px) {
+    .box img {
+        display: none;
+    }
+    .box {
+        flex: 1 1 200px;
+    }
+  }

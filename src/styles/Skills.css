@@ -59,3 +59,9 @@
     color: #8a8d73;
     text-decoration: none;
 }
+
+@media (max-width: 1300px) {
+    .skillsBox {
+        margin: 0px 110px 0px 90px;
+    }
+  }

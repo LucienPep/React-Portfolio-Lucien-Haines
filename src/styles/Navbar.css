@@ -35,3 +35,13 @@
   background-color: #a98a55;
 }
 
+@media (max-width: 1300px) {
+  .line {
+    margin: 0px 10px 0px 10px;
+  }
+  .links {
+    margin-left: 20px;
+  }
+}
+
+

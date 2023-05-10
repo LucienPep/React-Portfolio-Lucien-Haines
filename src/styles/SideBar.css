@@ -27,3 +27,13 @@
     border-width: 0px 10px 0px 0px;
     border-color: #a4a169;
 }
+
+@media (max-width: 1300px) {
+    .side {
+        margin: 0px 0px 0px 65px;
+    }
+    .side img {
+        display: none;
+
+    }
+  }

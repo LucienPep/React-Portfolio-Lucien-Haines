@@ -19,9 +19,9 @@ function Navbar() {
                             color: isActive ? '#a4a169' : '#850700' })}>HOME</NavLink>
       <NavLink to="/skills" className='pageLink' style={({ isActive }) => ({ 
                             color: isActive ? '#a4a169' : '#850700' })}>RESUME</NavLink>
-      <NavLink to="/projects" className='pageLink' style={({ isActive }) => ({ 
+      <NavLink to="/projects" className='pageLink two' style={({ isActive }) => ({ 
                             color: isActive ? '#a4a169' : '#850700' })}>PORTFOLIO</NavLink>
-      <NavLink to="/contact" className='pageLink' style={({ isActive }) => ({ 
+      <NavLink to="/contact" className='pageLink two' style={({ isActive }) => ({ 
                             color: isActive ? '#a4a169' : '#850700' })}>CONTACT</NavLink>
       </motion.div>
     </nav>
