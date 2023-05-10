@@ -3,7 +3,6 @@ article {
     width: fit-content;
     display: flex;
     flex-wrap: wrap;
-    background-color: #f9e8b7;
     margin: 0 10% 0 510px;
     padding: 20px 0px 0 20px;
 }

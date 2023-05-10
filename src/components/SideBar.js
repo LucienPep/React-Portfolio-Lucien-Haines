@@ -6,6 +6,7 @@ import {motion} from 'framer-motion'
 function SideBar() {
   return (
     <header className="side">
+      <div className='hideBox'></div>
         <motion.div 
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}

@@ -15,8 +15,8 @@ function Projects() {
     <section className="projectBox">
         <motion.div
             animate={{ x: '-0%', opacity: 100}}
-            initial={{ x: '120%', opacity: 0}}
-            exit={{x: '-250%', opacity: 0, transition:{ duration: .5}}}
+            initial={{ x: '50%', opacity: 0}}
+            exit={{x: '-40%', opacity: 0, transition:{ duration: .5}}}
             transition={{ duration: 1}}>
             <article id="work">
       <div class="box">
@@ -42,14 +42,14 @@ function Projects() {
       <div class="box" >
         <img src={assignment13} alt="Company Employee Database page link"></img>
         <div class="container">
-          <h3>Assignment 13</h3>
+          <h3>E Commerce Store</h3>
             <a href="https://github.com/LucienPep/E-Commerce-Store-Back-End-Functionality " target="_blank" rel="noreferrer">Github</a>
         </div>
       </div>
       <div class="box" >
         <img src={assignment14} alt="Online NotePad page link"></img>
         <div class="container">
-        <h3>Assignment 15</h3>
+        <h3>CMS Blog Page</h3>
         <a href="https://block-blog.herokuapp.com/ " target="_blank" rel="noreferrer">Deployed</a>
             <br></br>
             <br></br>
@@ -59,14 +59,14 @@ function Projects() {
       <div class="box">
         <img src={assignment18} alt="Command Line Team Profile Generator link page"></img>
         <div class="container">
-        <h3>Assignment 18</h3>
+        <h3>MDB Social Page</h3>
             <a href="https://github.com/LucienPep/MongoDB-Social-Network " target="_blank" rel="noreferrer">Github</a>
         </div>
       </div>
       <div class="box">
         <img src={assignment19} alt="Command Line Team Profile Generator link page"></img>
         <div class="container">
-        <h3>Assignment 19</h3>
+        <h3>PWA Editor</h3>
         <a href="https://pwa-editor-1989.herokuapp.com/ " target="_blank" rel="noreferrer">Deployed</a>
             <br></br>
             <br></br>
