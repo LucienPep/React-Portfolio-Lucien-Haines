@@ -6,7 +6,6 @@ import Footer from "./components/Footer";
 import SideBar from "./components/SideBar";
 import Home from "./components/pages/Home";
 import Skills from "./components/pages/Skills";
-import Resume from "./components/pages/Resume";
 import Projects from "./components/pages/Projects";
 import Contact from "./components/pages/Contact";
 import { Route, Routes, useLocation} from "react-router-dom"
@@ -27,7 +26,6 @@ function App() {
               <Route path='/skills' element={<Skills />} />
               <Route path='/projects' element={<Projects />} />
               <Route path='/contact' element={<Contact />} />
-              <Route path='/resume' element={<Resume />} />
             </Routes>
           </AnimatePresence>
          </div>

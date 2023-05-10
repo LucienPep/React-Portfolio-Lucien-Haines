@@ -31,6 +31,10 @@ function Skills() {
             <p className='list'>Jest</p><div className='dash'>-</div>
             <p className='list'>Git</p><div className='dash'>-</div>
             <p className='list'>Heroku</p>
+            <br></br>
+            <br></br>
+            <br></br>
+            <h2 className='inline email'>Please download my resume <a href=" " target="_blank">here.</a></h2>
         </motion.div>
     </section>
   );

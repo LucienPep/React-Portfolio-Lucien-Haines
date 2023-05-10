@@ -1,0 +1,41 @@
+article {
+    position: absolute;
+    width: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f9e8b7;
+    margin: 0 10% 0 510px;
+    padding: 20px 0px 0 20px;
+}
+
+.box{
+    height: 150px;
+    flex: 1 1 300px;
+    border-style: solid;
+    border-color: #a98a55;
+    margin: 2px;
+    position: relative;
+}
+
+.box img{
+    height: 150px;
+    width: 150px;
+    float: right;
+}
+
+
+.container h3{
+    padding: 2px;
+    position: relative;
+    width: fit-content;
+    font-size: 12pt;
+    font-weight: lighter;
+    font-family: 'Wright', Verdana, Tahoma, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.projectBox a {
+    font-family: 'Wright', Verdana, Tahoma, sans-serif;
+    text-decoration: none;
+    color: #8a8d73;
+}
