@@ -14,10 +14,6 @@ function Resume() {
             transition={{ duration: 1}}>
             <h1>Resume</h1>
             <h2 className='inline email'>Please download my resume <a href=" " target="_blank">here.</a></h2>
-            <br></br>
-            <p>
-                I am proficient in
-            </p>
         </motion.div>
     </section>
   );

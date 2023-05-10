@@ -40,3 +40,15 @@
     color: #8a8d73;
     text-decoration: none;
 }
+
+.contactBox span {
+    color: #8a8d73;
+    font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contactBox form {
+    color: #17180f;
+    padding-right: 50px;
+    position: absolute;
+    font-family: 'Wright', Verdana, Geneva, Tahoma, sans-serif;
+}
