@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import '../../styles/Contact.css';
 import {  motion} from 'framer-motion'
+//used package validator to check if email was true
 import validator from 'validator'
 
-
+//contact section is a basic form that has no back end functionality, all 3 boxes to be submitted must have content and emil must be valid 
 function Contact() {
-  
+  // function to check if email is true and set a variable that will appear on screen when inputting to validate email
   const [use, set] = useState('')
   const validateEmail = (input) => {
     var email = input.target.value

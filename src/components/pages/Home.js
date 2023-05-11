@@ -3,7 +3,7 @@ import '../../styles/Home.css';
 import {  motion} from 'framer-motion'
 import Avatar from '../../Assets/Photos/fish11.png'
 
-
+//About me/ Home page gives a brief description and shows off my avatar.
 function Home() {
 
   return (

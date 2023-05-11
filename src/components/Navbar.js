@@ -3,6 +3,7 @@ import '../styles/Navbar.css';
 import {motion} from 'framer-motion'
 import {NavLink} from "react-router-dom"
 
+//Navbar for main page uses react router to link to each page and an isActive styling is assigned to the link that is currently in use by using NavLink instead of Link
 function Navbar() {
   return (
     <nav className="navbar">

@@ -4,6 +4,7 @@ import flower from '../Assets/Photos/Flower.png'
 import important from '../Assets/Photos/Magnifique.jpg'
 import {motion} from 'framer-motion'
 
+//basic header bar with name handle and added monogram, both have different animations as I wanted certain parts of the page to load at different times to others
 function HeaderBar() {
   return (
     <header className="header">

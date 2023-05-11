@@ -2,7 +2,7 @@ import React from 'react';
 import '../../styles/Skills.css';
 import { motion } from 'framer-motion'
 
-
+//Skills section and Resume are all linked on this page, I chose to use <p> as I was running out of time and this served my purposes correctly. Resume link doesn't go anywhere as I am disinclined to link my resume to a public domain.
 function Skills() {
 
   return (

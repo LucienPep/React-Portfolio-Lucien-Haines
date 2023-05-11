@@ -1,6 +1,8 @@
 import React from 'react';
 import '../../styles/Project.css';
 import {  motion} from 'framer-motion'
+
+//Import all the photos for each project
 import project1 from '../../Assets/Photos/Project1.png'
 import project2 from '../../Assets/Photos/Project2.jpg'
 import assignment13 from '../../Assets/Photos/Screenshot13.png'
@@ -8,7 +10,7 @@ import assignment19 from '../../Assets/Photos/Screenshot19.png'
 import assignment18 from '../../Assets/Photos/Screenshot18.png'
 import assignment14 from '../../Assets/Photos/Screenshot14.png'
 
-
+//Show cases 2 projects and 4 assignments with photo and links if applicable to deployed and git hub repository
 function Projects() {
 
   return (

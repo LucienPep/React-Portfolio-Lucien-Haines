@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/Footer.css';
 import {motion} from 'framer-motion'
 
+//Added footer with Links and Email Twitter and Linkin Links are blank as I don't have an account with either platform
 function Footer() {
   return (
     <header className="footer">

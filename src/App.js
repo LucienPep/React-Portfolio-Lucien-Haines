@@ -1,3 +1,4 @@
+//Import all function and pages for linking
 import React from "react";
 import HeaderBar from "./components/HeaderBar";
 import Navbar from "./components/Navbar";
@@ -11,7 +12,7 @@ import Contact from "./components/pages/Contact";
 import { Route, Routes, useLocation} from "react-router-dom"
 import { AnimatePresence } from 'framer-motion'
 
-
+//Main app function, I am using react routes to load the new pages in when I click them instead of reloading the page. I have also wrapped all the routes inside animate presence which will allow them to be animated when requested.
 function App() {
   const location = useLocation();
   return (
