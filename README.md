@@ -56,16 +56,15 @@ I Started by installing react and sketching out roughly what I wanted the webpag
 
 ### Link To Deployed Site
 
-[Week-19-Heroku-Deployment](https://pwa-editor-1989.herokuapp.com/)
+## [Week-20-GitHub-Pages](https://lucienpep.github.io/React-Protfolio-Lucien-Haines/)
 
 ### Screenshot
 
-![Block Blog](./assets/Screenshot19.png)
+![React Profile](./src/Assets/Photos/Screenshot20.png)
 
 ### Installation
 
 For this application no dependencies need to be installed as a user on the deployed application.
-
 
 ### License
 
