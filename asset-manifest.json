@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Protfolio-Lucien-Haines/static/css/main.06775cb7.css",
-    "main.js": "/React-Protfolio-Lucien-Haines/static/js/main.383683bf.js",
+    "main.js": "/React-Protfolio-Lucien-Haines/static/js/main.ec778e99.js",
     "static/media/Magnifique.jpg": "/React-Protfolio-Lucien-Haines/static/media/Magnifique.a39f3c7ff39ee7debdb4.jpg",
     "static/media/Website.png": "/React-Protfolio-Lucien-Haines/static/media/Website.fac2e020a02cc1bff73b.png",
     "static/media/Project3.png": "/React-Protfolio-Lucien-Haines/static/media/Project3.801130b7e0ff9cd42c54.png",
@@ -16,10 +16,10 @@
     "static/media/Fontspring-DEMO-wrightfunk-light.otf": "/React-Protfolio-Lucien-Haines/static/media/Fontspring-DEMO-wrightfunk-light.27032d764dcf64f6d7ec.otf",
     "index.html": "/React-Protfolio-Lucien-Haines/index.html",
     "main.06775cb7.css.map": "/React-Protfolio-Lucien-Haines/static/css/main.06775cb7.css.map",
-    "main.383683bf.js.map": "/React-Protfolio-Lucien-Haines/static/js/main.383683bf.js.map"
+    "main.ec778e99.js.map": "/React-Protfolio-Lucien-Haines/static/js/main.ec778e99.js.map"
   },
   "entrypoints": [
     "static/css/main.06775cb7.css",
-    "static/js/main.383683bf.js"
+    "static/js/main.ec778e99.js"
   ]
 }
