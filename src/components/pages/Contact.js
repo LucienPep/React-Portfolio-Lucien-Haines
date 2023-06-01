@@ -26,22 +26,11 @@ function Contact() {
             exit={{x: '-200%', opacity: 0, transition:{ duration: .5}}}
             transition={{ duration: 1}}>
             <h1>Contact Me</h1>
-            <form>
-              <label>Enter your name:<br></br>
-                <input type="text" required/>
-              </label>
-              <br></br>
-              <label>Enter your email:<br></br>
-                <input type="text" onInput={(input) => validateEmail(input)} required></input>  
-                  <span>{use}</span>            
-                </label>
-              <br></br>
-              <label>Enter your message:<br></br>
-                <input type="text" required></input>  
-              </label>
-              <br></br>
-              <input type="submit" />
-            </form>
+            <h2 className='inline email'>Email: Lucien</h2>
+            <h2 className='atTwo inline'>@</h2>
+            <h2 className='inline email'>adam.com.au</h2>
+            <h2 className='email'>Link to <a href="https://github.com/LucienPep" target="_blank" rel="noreferrer">GitHub</a> Page</h2>
+            <br></br>
         </motion.div>
     </section>
   );

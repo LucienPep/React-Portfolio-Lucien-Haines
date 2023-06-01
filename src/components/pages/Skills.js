@@ -34,7 +34,6 @@ function Skills() {
             <br></br>
             <br></br>
             <br></br>
-            <h2 className='inline email'>Please download my resume <a href=" " target="_blank">here.</a></h2>
         </motion.div>
     </section>
   );
