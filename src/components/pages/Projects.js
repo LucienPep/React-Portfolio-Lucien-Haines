@@ -5,7 +5,7 @@ import {  motion} from 'framer-motion'
 //Import all the photos for each project
 import project1 from '../../Assets/Photos/Project1.png'
 import project2 from '../../Assets/Photos/Project2.jpg'
-import assignment13 from '../../Assets/Photos/Screenshot13.png'
+import project3 from '../../Assets/Photos/Project3.png'
 import assignment19 from '../../Assets/Photos/Screenshot19.png'
 import assignment18 from '../../Assets/Photos/Screenshot18.png'
 import assignment14 from '../../Assets/Photos/Screenshot14.png'
@@ -22,13 +22,13 @@ function Projects() {
             transition={{ duration: 1}}>
             <article id="work">
       <div class="box">
-        <img src={project2} alt="Mechanomicon Work page link"></img>
-          <div class="container">
-            <h3>Mechanomicon</h3>
-            <a href="https://mechanomicon.herokuapp.com/" target="_blank" rel="noreferrer">Deployed</a>
+      <img src={project3} alt="PhotoChute"></img>
+          <div className="container">
+            <h3>PhotoChute</h3>
+            <a href="https://photochute.herokuapp.com/" target="_blank" rel="noreferrer">Deployed</a>
             <br></br>
             <br></br>
-            <a href=" https://github.com/LucienPep/Mechanomicon" target="_blank" rel="noreferrer">Github</a>
+            <a href=" https://github.com/LucienPep/PhotoChute" target="_blank" rel="noreferrer">Github</a>
           </div>
       </div>
       <div class="box">
@@ -42,10 +42,13 @@ function Projects() {
       </div>
       </div>
       <div class="box" >
-        <img src={assignment13} alt="Company Employee Database page link"></img>
-        <div class="container">
-          <h3>E Commerce Store</h3>
-            <a href="https://github.com/LucienPep/E-Commerce-Store-Back-End-Functionality " target="_blank" rel="noreferrer">Github</a>
+         <img src={project2} alt="Mechanomicon Work page link"></img>
+        <div className="container">
+          <h3>Mechanomicon</h3>
+            <a href="https://mechanomicon.herokuapp.com/" target="_blank" rel="noreferrer">Deployed</a>
+            <br></br>
+            <br></br>
+            <a href=" https://github.com/LucienPep/Mechanomicon" target="_blank" rel="noreferrer">Github</a>
         </div>
       </div>
       <div class="box" >
