@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Protfolio-Lucien-Haines/static/css/main.06775cb7.css",
-    "main.js": "/React-Protfolio-Lucien-Haines/static/js/main.ec778e99.js",
-    "static/media/Magnifique.jpg": "/React-Protfolio-Lucien-Haines/static/media/Magnifique.a39f3c7ff39ee7debdb4.jpg",
-    "static/media/Website.png": "/React-Protfolio-Lucien-Haines/static/media/Website.fac2e020a02cc1bff73b.png",
-    "static/media/Project3.png": "/React-Protfolio-Lucien-Haines/static/media/Project3.801130b7e0ff9cd42c54.png",
-    "static/media/Project2.jpg": "/React-Protfolio-Lucien-Haines/static/media/Project2.90ff6c35665d82250e52.jpg",
-    "static/media/Screenshot18.png": "/React-Protfolio-Lucien-Haines/static/media/Screenshot18.31a69dd78f8e5612788f.png",
-    "static/media/Project1.png": "/React-Protfolio-Lucien-Haines/static/media/Project1.2b26f3a14c482ad029ad.png",
-    "static/media/timeburnernormal.ttf": "/React-Protfolio-Lucien-Haines/static/media/timeburnernormal.63ba87079cd67069aab5.ttf",
-    "static/media/fish11.png": "/React-Protfolio-Lucien-Haines/static/media/fish11.91c4394092e0dffdab0f.png",
-    "static/media/Flower.png": "/React-Protfolio-Lucien-Haines/static/media/Flower.352e12d2a82e7c23f12b.png",
-    "static/media/Screenshot14.png": "/React-Protfolio-Lucien-Haines/static/media/Screenshot14.88578798f3a866fb1ac4.png",
-    "static/media/Screenshot19.png": "/React-Protfolio-Lucien-Haines/static/media/Screenshot19.38a4de64ba0037b8a05a.png",
-    "static/media/Fontspring-DEMO-wrightfunk-light.otf": "/React-Protfolio-Lucien-Haines/static/media/Fontspring-DEMO-wrightfunk-light.27032d764dcf64f6d7ec.otf",
-    "index.html": "/React-Protfolio-Lucien-Haines/index.html",
-    "main.06775cb7.css.map": "/React-Protfolio-Lucien-Haines/static/css/main.06775cb7.css.map",
-    "main.ec778e99.js.map": "/React-Protfolio-Lucien-Haines/static/js/main.ec778e99.js.map"
+    "main.css": "/React-Portfolio-Lucien-Haines/static/css/main.d45752cc.css",
+    "main.js": "/React-Portfolio-Lucien-Haines/static/js/main.53d6e33e.js",
+    "static/media/Magnifique.jpg": "/React-Portfolio-Lucien-Haines/static/media/Magnifique.a39f3c7ff39ee7debdb4.jpg",
+    "static/media/Website.png": "/React-Portfolio-Lucien-Haines/static/media/Website.fac2e020a02cc1bff73b.png",
+    "static/media/Project3.png": "/React-Portfolio-Lucien-Haines/static/media/Project3.801130b7e0ff9cd42c54.png",
+    "static/media/Project2.jpg": "/React-Portfolio-Lucien-Haines/static/media/Project2.90ff6c35665d82250e52.jpg",
+    "static/media/Screenshot18.png": "/React-Portfolio-Lucien-Haines/static/media/Screenshot18.31a69dd78f8e5612788f.png",
+    "static/media/Project1.png": "/React-Portfolio-Lucien-Haines/static/media/Project1.2b26f3a14c482ad029ad.png",
+    "static/media/timeburnernormal.ttf": "/React-Portfolio-Lucien-Haines/static/media/timeburnernormal.63ba87079cd67069aab5.ttf",
+    "static/media/fish11.png": "/React-Portfolio-Lucien-Haines/static/media/fish11.91c4394092e0dffdab0f.png",
+    "static/media/Flower.png": "/React-Portfolio-Lucien-Haines/static/media/Flower.352e12d2a82e7c23f12b.png",
+    "static/media/Screenshot14.png": "/React-Portfolio-Lucien-Haines/static/media/Screenshot14.88578798f3a866fb1ac4.png",
+    "static/media/Screenshot19.png": "/React-Portfolio-Lucien-Haines/static/media/Screenshot19.38a4de64ba0037b8a05a.png",
+    "static/media/Fontspring-DEMO-wrightfunk-light.otf": "/React-Portfolio-Lucien-Haines/static/media/Fontspring-DEMO-wrightfunk-light.27032d764dcf64f6d7ec.otf",
+    "index.html": "/React-Portfolio-Lucien-Haines/index.html",
+    "main.d45752cc.css.map": "/React-Portfolio-Lucien-Haines/static/css/main.d45752cc.css.map",
+    "main.53d6e33e.js.map": "/React-Portfolio-Lucien-Haines/static/js/main.53d6e33e.js.map"
   },
   "entrypoints": [
-    "static/css/main.06775cb7.css",
-    "static/js/main.ec778e99.js"
+    "static/css/main.d45752cc.css",
+    "static/js/main.53d6e33e.js"
   ]
 }
